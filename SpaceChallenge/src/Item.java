@@ -1,4 +1,4 @@
-/* This class is specifies the object and its weight to be carried by the roccket*/
+/* This class specifies the object and its weight to be carried by the roccket*/
 
 public class Item {
 	
