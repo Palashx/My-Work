@@ -1,6 +1,6 @@
 # My-Work
 This repository consists of a few mini projects.
 ```
-This was my first git hub repository.
+This was my first git hub repository. Please dont judge me !!
 ```
 
